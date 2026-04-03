@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/purinboonpetch">
+  <a href="https://linkedin.com/in/purin-boonpetch/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:purinboonpetch@gmail.com">
