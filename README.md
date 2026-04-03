@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khronossu&show_icons=true&hide_border=true&theme=default&hide=stars" />
-</p>
+</p> -->
 
