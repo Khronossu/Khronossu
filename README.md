@@ -15,20 +15,50 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Purin</h1>
-<h3 align="center">A Data-Engineering student</h3>
-
-- 🌱 I’m currently learning **C, Rust, TypeScript, ML& Deep Learning!**
-
-- 📚 I'm reading **Naked Statistic, more**
-
-- 📫 How to reach me **purinboonpetch@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/purin boonpetch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purin boonpetch" height="30" width="40" /></a>
+<h1 align="center">Purin Boonpetch</h1>
+<p align="center">
+  Data Engineering Student · Srinakharinwirot University
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/purinboonpetch">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:purinboonpetch@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## What I'm building
+
+**AcadeMong** — AI advisor for Thai TCAS university admissions. Hybrid RAG pipeline (BM25 + dense retrieval + cross-encoder reranking) over Qdrant, local LLM inference via Ollama (Typhoon2-8b), deterministic SQL eligibility engine to prevent hallucination of threshold data.
+
+**Minecraft Server Infrastructure** — Scale-to-zero AWS setup using Fargate + EFS + NLB with a Lambda/RCON mechanism that spins the server down when idle and back up on demand. Provisioned with Terraform.
+
+---
+
+## Stack
+
+**Core DE**
+`Apache Kafka` `PySpark` `Structured Streaming` `Apache Iceberg` `dbt` `Apache Airflow` `Great Expectations`
+
+**Infrastructure & Observability**
+`Docker` `MinIO` `Prometheus` `Grafana` `GitHub Actions` `Terraform` `AWS` `GCP`
+
+**Languages**
+`Python` `SQL` `TypeScript` `JavaScript`
+
+**Backend & Data Stores**
+`FastAPI` `PostgreSQL` `Redis`
+
+**Frontend**
+`React`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khronossu&show_icons=true&hide_border=true&theme=default&hide=stars" />
+</p>
 
